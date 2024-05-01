@@ -6,3 +6,7 @@ Program ini adalah sebuah sistem manajemen informasi yang dirancang untuk memant
 2. FLOWCHART
    - Register
      ![image](https://github.com/restualhidayat/PA-B23-KELOMPOK12/assets/128288203/1515c9e6-9082-4570-b8fe-8dc3189d8ee0)
+
+   - menu admin
+     ![image](https://github.com/restualhidayat/PA-B23-KELOMPOK12/assets/128288203/3da38318-19fb-469f-87bd-946fbe6590ad)
+
