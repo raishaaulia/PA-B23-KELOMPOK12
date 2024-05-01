@@ -21,3 +21,12 @@ prettytable: Library ini digunakan untuk membuat tabel yang rapi dan mudah dibac
 pwinput: Library ini digunakan untuk mengambil input password dari pengguna tanpa menampilkan teks yang dimasukkan ke layar, sehingga meningkatkan keamanan.
 datetime: Library ini digunakan untuk bekerja dengan tanggal dan waktu dalam Python. Digunakan untuk memanipulasi dan memformat tanggal dan waktu.
 ![image](https://github.com/restualhidayat/PA-B23-KELOMPOK12/assets/128288203/b9ae5d77-c7eb-4d95-aa61-ae1a42d82532)
+
+-![image](https://github.com/restualhidayat/PA-B23-KELOMPOK12/assets/128288203/9c3bcb5d-d706-4f97-acec-bd3f2674b959)
+Ini adalah fungsi untuk membuat koneksi ke database + implementasi struktu data linkedlist. Selain definisi LinkedList, ada juga fungsi connect_database, yang mencoba membuat koneksi ke database MySQL menggunakan library mysql.connector. Fungsi ini mengembalikan objek koneksi jika berhasil atau None jika terjadi kesalahan. Jika terjadi kesalahan, pesan kesalahan dicetak ke layar.
+
+-![image](https://github.com/restualhidayat/PA-B23-KELOMPOK12/assets/128288203/0ccfc265-10b9-4dc8-b452-5bc25122e43a)
+kelas untuk menampilkan entitas Tren_Iklim
+
+
+
