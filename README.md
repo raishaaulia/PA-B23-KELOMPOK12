@@ -10,3 +10,5 @@ Program ini adalah sebuah sistem manajemen informasi yang dirancang untuk memant
    - menu admin
      ![image](https://github.com/restualhidayat/PA-B23-KELOMPOK12/assets/128288203/3da38318-19fb-469f-87bd-946fbe6590ad)
 
+   - Menu Utama Dan Menu User
+     ![FINAL PROJEK (12)-MENU UTAMA   MENU USER](https://github.com/restualhidayat/PA-B23-KELOMPOK12/assets/128288203/2b9fc4d1-ecb1-4f7b-a7ab-3a610046f84b)
