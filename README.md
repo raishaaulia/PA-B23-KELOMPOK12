@@ -28,5 +28,10 @@ Ini adalah fungsi untuk membuat koneksi ke database + implementasi struktu data 
 -![image](https://github.com/restualhidayat/PA-B23-KELOMPOK12/assets/128288203/0ccfc265-10b9-4dc8-b452-5bc25122e43a)
 kelas untuk menampilkan entitas Tren_Iklim
 
+-![image](https://github.com/restualhidayat/PA-B23-KELOMPOK12/assets/128288203/5a4063d6-be3b-4720-a583-157c8e940fb6)
+Program diatas adalah sebuah method yang berletak didalam kelas tren iklim yang berfungsi untuk menampilkan semua data tren iklim
+
+-
+
 
 
